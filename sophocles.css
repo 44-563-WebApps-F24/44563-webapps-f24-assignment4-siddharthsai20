@@ -1,0 +1,23 @@
+.speech{
+    font-size: 15;
+    font-family:  sans-serif;
+    color: black;
+}
+.direction{
+    font-size: 17;
+    font-family: Times New Roman;
+    color: black;
+    background-color: bisque;
+}
+.direction:hover{
+    color: aquamarine;
+    background-color: black;
+}
+.oedipus{
+    color: aqua;
+}
+.tiresias{
+    color: blueviolet;
+}
+
+
