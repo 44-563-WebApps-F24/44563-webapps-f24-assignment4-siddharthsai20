@@ -19,5 +19,16 @@
 .tiresias{
     color: blueviolet;
 }
-
+table{
+    border: solid 4px;
+    border-collapse: collapse;
+}
+th,td{
+    border:solid 3px;
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color: brown;
+}
 
