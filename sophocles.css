@@ -31,4 +31,19 @@ th,td{
 tr:nth-child(even){
     background-color: aquamarine;
 }
+.oedipus:hover
+{
+    text-shadow: 2px 3px 6px yellowgreen;
+    border: 2px solid sandybrown;
+    border-radius: 6px;
+    padding: 6px;
+}
+.tiresias:hover
+{
+    text-shadow: 2px 3px 6px royalblue;
+    border: 2px solid salmon;
+    border-radius: 6px;
+    padding: 6px;
+
+}
 
